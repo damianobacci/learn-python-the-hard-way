@@ -11,4 +11,7 @@ Excercises from Learning Python the Hard Way by Zed Shaw
 * Strings and text
 * More printing
 * Printing, printing
+* Printing, printing, printing
+* Escape sequences
+* Asking questions
 
