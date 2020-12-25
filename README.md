@@ -8,3 +8,7 @@ Excercises from Learning Python the Hard Way by Zed Shaw
 * Math operations
 * Variables and names
 * Strings
+* Strings and text
+* More printing
+* Printing, printing
+
